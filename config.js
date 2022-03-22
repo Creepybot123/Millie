@@ -32,8 +32,8 @@ global.APIKeys = { // The APIKey is here
 }
 
 // Sticker WM
-global.packname = '💋 ᴍɪʟʟɪᴇ 💋'
-global.author = 'Ⓝ🅔Ⓔ🅡Ⓐ🅙'
+global.packname = 'ᴄʀᴇᴇᴘʏ'
+global.author = 'ᴀᴅᴡᴀɪᴅʜ'
 
 
 global.wait = '_*Please Wait..*_'
